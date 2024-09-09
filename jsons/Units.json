@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "The Dentonian empire",
 		"movement": 4,
-		"strength": 90,
+		"strength": 25,
 		"cost": 10,
 		"promotions": [],
 	}
