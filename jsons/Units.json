@@ -1,8 +1,8 @@
 [
 	{
 		"name": "the kings guard",
-		"unitType": "Ranged",
-		"uniqueTo": "Alies",
+		"unitType": "Meelee",
+		"uniqueTo": "the-Dentonian-empire",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
