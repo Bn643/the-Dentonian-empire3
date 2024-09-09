@@ -1,9 +1,9 @@
 [
 	{
 		"name": "the kings guard",
-		"unitType": "Meelee",
+		"unitType": "Sword",
 		"uniqueTo": "the-Dentonian-empire",
-		"replaces": "Sword",
+		"replaces": "Scout",
 		"movement": 4,
 		"strength": 90,
 		"cost": 10,
