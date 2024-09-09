@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "The Dentonian empire",
 		"movement": 2,
-		"strength": 90,
+		"strength": 50,
 		"cost": 10,
 		"promotions": ["Blitz"],
 		"requiredTech": "Combined Arms"
