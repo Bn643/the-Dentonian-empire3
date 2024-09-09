@@ -3,7 +3,7 @@
 		"name": "the kings guard",
 		"unitType": "Sword",
 		"uniqueTo": "the-Dentonian-empire",
-		"replaces": "Scout",
+		"replaces": None,
 		"movement": 4,
 		"strength": 90,
 		"cost": 10,
