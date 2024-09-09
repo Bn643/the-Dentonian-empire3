@@ -2,7 +2,7 @@
 	{
 		"name": "the kings guard",
 		"unitType": "Sword",
-		"uniqueTo": "the Dentonian empire",
+		"uniqueTo": "The Dentonian empire",
 		"movement": 4,
 		"strength": 90,
 		"cost": 10,
