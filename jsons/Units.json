@@ -3,15 +3,10 @@
 		"name": "the kings guard",
 		"unitType": "Meelee",
 		"uniqueTo": "the-Dentonian-empire",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"replaces": "Warrior",
+		"movement": 4,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 10,
+		"promotions": [],
 	}
 ]
