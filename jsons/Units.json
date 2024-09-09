@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "the kings guard",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Alies",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
