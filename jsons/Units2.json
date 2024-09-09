@@ -1,1 +1,11 @@
-
+[
+	{
+		"name": "the kings guard",
+		"unitType": "Sword",
+		"uniqueTo": "The Dentonian empire",
+		"movement": 2,
+		"strength": 90,
+		"cost": 10,
+		"promotions": [Blitz],
+	}
+]
