@@ -6,6 +6,6 @@
 		"movement": 4,
 		"strength": 25,
 		"cost": 10,
-		"promotions": [],
+		"promotions": ["Drill l","Drill ll","Drill lll"],
 	}
 ]
