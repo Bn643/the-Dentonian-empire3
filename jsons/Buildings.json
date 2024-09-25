@@ -11,3 +11,12 @@
         "Happiness": 1
     }
 ]
+[
+    {
+        "name": "the city center",
+        "uniqueTo": "The Dentonian empire",
+        "cost": 20,
+        "Gold": 3,
+        "Unhappiness": 1,
+    }
+]
