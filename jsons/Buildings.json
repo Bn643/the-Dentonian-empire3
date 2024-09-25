@@ -3,7 +3,7 @@
 		"name": "the city center",
 		"replaces": "Monument",
 		"uniqueTo": "The Dentonian empire",
-		"cost": 28,
+		"cost": 45,
 		"faith": 2,
 		"culture": 2,
 		"science": 2,
