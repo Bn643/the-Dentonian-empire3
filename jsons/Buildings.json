@@ -1,22 +1,28 @@
 [
-	{
-		"name": "the city center",
-		"replaces": "Monument",
-		"uniqueTo": "The Dentonian empire",
-		"cost": 45,
-		"faith": 2,
-		"culture": 2,
-		"maintenance": 1,
-		"science": 2,
-		"Happiness": 1,
-	
-	},
-	{
-		"name": "the taxation district",
-		"uniqueTo": "The Dentonian empire",
-		"cost": 20,
-		"Gold": 3,
-		"Unhappiness": 1,
-	
-	}
+    {
+        "name": "the city center",
+        "replaces": "Monument",
+        "uniqueTo": "The Dentonian empire",
+        "cost": 45,
+        "faith": 2,
+        "culture": 2,
+        "maintenance": 1,
+        "science": 2,
+        "Happiness": 1
+    },
+    {
+        "name": "the taxation district",
+        "uniqueTo": "The Dentonian empire",
+        "cost": 20,
+        "effects": [
+            {
+                "type": "Gold",
+                "value": 3
+            },
+            {
+                "type": "Unhappiness",
+                "value": 1
+            }
+        ]
+    }
 ]
