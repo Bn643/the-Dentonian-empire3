@@ -14,8 +14,9 @@
 	{
 		"name": "the taxation district",
 		"uniqueTo": "The Dentonian empire",
+		"cost": 20,
 		"Gold": 3,
 		"Unhappiness": 1,
-		"cost": 20,
+	
 	}
 ]
