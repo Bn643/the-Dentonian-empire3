@@ -15,6 +15,6 @@
 		"name": "the taxation district",
 		"uniqueTo": "The Dentonian empire",
 		"Gold": 3,
-		"Happiness": -1,
+		"Unhappiness": 1,
 	}
 ]
