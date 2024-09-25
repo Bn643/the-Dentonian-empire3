@@ -6,6 +6,7 @@
 		"cost": 45,
 		"faith": 2,
 		"culture": 2,
+		"maintenance": 1,
 		"science": 2,
 	
 	}
