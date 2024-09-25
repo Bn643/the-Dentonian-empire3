@@ -16,5 +16,6 @@
 		"uniqueTo": "The Dentonian empire",
 		"Gold": 3,
 		"Unhappiness": 1,
+		"cost": 20,
 	}
 ]
