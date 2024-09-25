@@ -6,6 +6,6 @@
 		"movement": 4,
 		"strength": 25,
 		"cost": 10,
-		"promotions": ["Drill I","Drill II","Drill III","Besiege","March","Blitz""Cover I"],
+		"promotions": ["Drill I","Drill II","Drill III","Besiege","March","Blitz","Cover I"],
 	}
 ]
