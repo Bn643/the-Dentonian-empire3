@@ -1,8 +1,8 @@
 [
     {
-        "name": "the city center",
-        "uniqueTo": "The Dentonian empire",
-        "cost": 20,
+        "Name": "the city center",
+        "UniqueTo": "The Dentonian empire",
+        "Cost": 20,
         "Gold": 3,
         "Unhappiness": 1,
     }
